@@ -1,0 +1,28 @@
+body{
+    padding-left: 25px;
+    padding-right: 25px;
+    background: #FDC830;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #F37335, #FDC830);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #F37335, #FDC830); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+}
+#ab{
+    padding-top: 40px;
+    font-size: 26px;
+    font-family: 'Rowdies', cursive;
+    text-align: center;
+}
+.jumbotron{
+    background-color: rgba(0, 0, 2, 0.6) !important;
+    padding-left: 45px;
+    padding-right: 45px;
+    
+}
+#bc{
+    color: white;
+    
+}
+button{
+    width: 100%;
+}
